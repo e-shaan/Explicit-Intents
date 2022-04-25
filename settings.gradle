@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Eshaan's Expicit Intent"
